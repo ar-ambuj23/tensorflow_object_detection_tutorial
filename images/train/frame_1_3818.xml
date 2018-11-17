@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>frame_1_3818.jpg</filename>
+	<path>/home/algoscale/Desktop/ambuj_data/1/frame3818.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>156</ymin>
+			<xmax>269</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

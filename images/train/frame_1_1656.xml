@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>frame_1_1656.jpg</filename>
+	<path>/home/algoscale/Desktop/ambuj_data/1/frame1656.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>169</ymin>
+			<xmax>307</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

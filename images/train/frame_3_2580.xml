@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_tagging</folder>
+	<filename>frame_3_2580.jpg</filename>
+	<path>/home/ambuj/Desktop/new_data/old graphics/3_tagging/frame2580.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>106</ymin>
+			<xmax>705</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

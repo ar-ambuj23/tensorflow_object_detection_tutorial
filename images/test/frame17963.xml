@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tagging</folder>
+	<filename>frame17963.jpg</filename>
+	<path>/home/ambuj/Desktop/new_data/old graphics/tagging/frame17963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>115</ymin>
+			<xmax>516</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>121</ymin>
+			<xmax>723</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

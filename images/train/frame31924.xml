@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame31924.jpg</filename>
+	<path>/home/algoscale/Desktop/ambuj_data/train/frame31924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>170</ymin>
+			<xmax>750</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

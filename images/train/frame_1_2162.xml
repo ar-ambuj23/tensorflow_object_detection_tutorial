@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tagging2</folder>
+	<filename>frame_1_2162.jpg</filename>
+	<path>/home/ambuj/Desktop/new_data/old graphics/tagging2/frame_1_2162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>174</ymin>
+			<xmax>352</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

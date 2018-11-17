@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>frame20171.jpg</filename>
+	<path>/home/algoscale/Desktop/ambuj_data/train/frame20171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>98</ymin>
+			<xmax>910</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
