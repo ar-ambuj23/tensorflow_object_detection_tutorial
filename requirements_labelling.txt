@@ -2,7 +2,7 @@ certifi==2018.10.15
 chardet==3.0.4
 idna==2.7
 labelImg==1.8.0
-lxml==4.2.5
+lxml==4.6.5
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
 requests==2.20.1
